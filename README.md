@@ -1,4 +1,5 @@
-Verilog HDL, Assembly, HTML, Python, C, Arduino를 공부하는 대학생입니다.<br>훈수는 언제든 환영입니다.
+Just studying Verilog, Assembly, Python, C, C++ and also HTML.<br>
+Free to teach me.
 
 <!---
 hyonestar19/hyonestar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
