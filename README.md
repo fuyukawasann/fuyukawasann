@@ -1,14 +1,16 @@
+### Welcome to My GitHub Profile!
+
+I am a Bachelor's student at Hanyang University's Department of Convergence Electronics. My academic journey began with a strong focus on digital circuit design and computer architecture. Recently, I have shifted my attention toward artificial intelligence, particularly optimizing computer vision on embedded boards like the Jetson Nano.
+
+In addition to my AI studies, I have consistently pursued web development languages such as HTML, CSS, and JavaScript. Recently, I have also been expanding my skill set by learning Docker, Java, and Java Spring.
+
+Feel free to explore my repositories and projects!
+
+### Contact
 <a href="mailto:hanbyeol8378@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/hanbyeol-lee-152634243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
-
-I use Verilog HDL, C/C++, C#, HTML, Python and also Mojo to develop some services and projects.
-
-Recently, I study Computer Vision using PyTorch + CNN models and Jetson Nano Embedded board.
-Optimizing my service like PyTorch2ONNX and ONNX2TRT.
-
-Please feel free to give me some advice about my current project. Thanks :D
 
 ### Skills
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
@@ -27,9 +29,6 @@ Please feel free to give me some advice about my current project. Thanks :D
 
 ### Coding Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbyeol8378)](https://solved.ac/hanbyeol8378)
-
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuyukawasann&show_icons=true&theme=radical)
 <!---
 hyonestar19/hyonestar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
