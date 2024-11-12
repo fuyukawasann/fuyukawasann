@@ -26,6 +26,7 @@ Feel free to explore my repositories and projects!
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/></a>
 <br>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RISC_V-283272?style=flat-square&logo=riscv&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=ltspice&logoColor=FFFFFF"/></a>
 
 ### Studying
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF"/></a>
