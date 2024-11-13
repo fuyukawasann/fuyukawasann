@@ -4,6 +4,8 @@ I am a Bachelor's student at Hanyang University's Covergence of Electronic Engin
 
 In addition to my AI studies, I have consistently pursued web development languages such as HTML, CSS, and JavaScript. Recently, I have also been expanding my skill set by learning Docker, Java, and Java Spring.
 
+To learn more about me, please see my ![CV](https://fuyukawasann.github.io/CV/).
+
 Feel free to explore my repositories and projects!
 
 ### 📠 Contact
@@ -41,6 +43,9 @@ Feel free to explore my repositories and projects!
 
 ### 💡 Coding Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbyeol8378)](https://solved.ac/hanbyeol8378)
+
+### Most Preference Language
+<a href="https://github.com/fuyukawasann"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyukawasann&layout=compact" /></a> 
 <!---
 hyonestar19/hyonestar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
