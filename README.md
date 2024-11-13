@@ -6,13 +6,13 @@ In addition to my AI studies, I have consistently pursued web development langua
 
 Feel free to explore my repositories and projects!
 
-### Contact
+### 📠  Contact
 <a href="mailto:hanbyeol8378@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/hanbyeol-lee-152634243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 
-### Skills
+### 💻  Skills
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/></a>
@@ -25,10 +25,11 @@ Feel free to explore my repositories and projects!
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/></a>
 <br>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RISC_V-283272?style=flat-square&logo=riscv&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=ltspice&logoColor=FFFFFF"/></a>
 
-### Studying
+### 📚 Studying
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=FFFFFF"/></a>
@@ -38,7 +39,7 @@ Feel free to explore my repositories and projects!
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=FFFFFF"/></a>
 
-### Coding Rank
+### 💡 Coding Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbyeol8378)](https://solved.ac/hanbyeol8378)
 <!---
 hyonestar19/hyonestar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
