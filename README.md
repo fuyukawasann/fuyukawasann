@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a6342&height=300&section=header&desc=Welcome%20to&text=Hanbyeol's%20Github!!&fontSize=50&descSize=30&animation=twinkling&fontColor=ffffff&fontAlign=70&descAlign=88&fontAlignY=55&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a6342&height=300&section=header&desc=Welcome%20to&text=Hanbyeol's%20Github!!&fontSize=50&descSize=30&animation=twinkling&fontColor=ffffff&fontAlign=70&descAlign=87&fontAlignY=55&descAlignY=40)
 
 I am a Bachelor's student at Hanyang University's Covergence of Electronic Engineering. My academic journey began with a strong focus on digital circuit design and computer architecture. Recently, I have shifted my attention toward artificial intelligence, particularly optimizing computer vision on embedded boards like the Jetson Nano.
 
