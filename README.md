@@ -4,7 +4,7 @@ I am a Bachelor's student at Hanyang University's Covergence of Electronic Engin
 
 In addition to my AI studies, I have consistently pursued web development languages such as HTML, CSS, and JavaScript. Recently, I have also been expanding my skill set by learning Docker, Java, and Java Spring.
 
-To learn more about me, please see my <a href="https://fuyukawasann.github.io/CV/" target="_blank">CV</a> .
+To learn more about me, please see my <a href="https://fuyukawasann.github.io/CV/" target="_blank">CV</a>
 
 Feel free to explore my repositories and projects!
 
