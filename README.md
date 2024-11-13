@@ -44,7 +44,7 @@ Feel free to explore my repositories and projects!
 ### 💡 Coding Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbyeol8378)](https://solved.ac/hanbyeol8378)
 
-### 📣 Most Used Language
+### 📣 Most Used Languages
 <a href="https://github.com/fuyukawasann"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyukawasann&layout=compact" /></a> 
 <!---
 hyonestar19/hyonestar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
