@@ -12,7 +12,7 @@ Feel free to explore my repositories and projects!
 <a href="mailto:hanbyeol8378@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/hanbyeol-lee-152634243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/fuyukawasann/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@fuyukawasann/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 
 ### 💻 Tech Stack
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
