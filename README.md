@@ -40,6 +40,7 @@ Feel free to explore my repositories and projects!
 <br>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FFFFFF"/></a>
 
 ### 💡 Coding Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbyeol8378)](https://solved.ac/hanbyeol8378)
